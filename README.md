@@ -8,6 +8,7 @@ Track your calories
 ```bash
   git clone https://github.com/TarokhDev2020/TraCalories-Javascript.git
   cd my-project
+  npm install
 ```
 
 ## Authors
